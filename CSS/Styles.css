@@ -1,0 +1,19 @@
+body{
+    background: rgb(58,58,58);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: black;
+    color: white;
+}
+
+section{
+    background: white;
+    Color: gray;
+}
+
+footer {
+    background: black;
+}
